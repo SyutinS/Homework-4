@@ -17,7 +17,7 @@ public class Main {
         byte b = 22;
         short c = 25000;
         long d = 80000000L;
-        float e = 3.75f;
+        float e = 3.75F;
         double f = 2.1584;
 
         System.out.println("Значение переменной 'a' с типом int равно " + a);
@@ -30,7 +30,7 @@ public class Main {
 
     public static void task2() {
         System.out.println("Задача 2");
-        float variableFloat = 27.12f;
+        float variableFloat = 27.12F;
         System.out.println("Переменная float " + variableFloat);
         long variableLong = 987678965549L;
         System.out.println("Переменная long " + variableLong);

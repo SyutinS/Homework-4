@@ -19,7 +19,6 @@ public class Main {
         long d = 80000000L;
         float e = 3.75F;
         double f = 2.1584;
-
         System.out.println("Значение переменной 'a' с типом int равно " + a);
         System.out.println("Значение переменной 'b' с типом byte равно " + b);
         System.out.println("Значение переменной 'c' с типом short равно " + c);
